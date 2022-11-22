@@ -1,0 +1,2 @@
+Russian text data - https://github.com/natasha/corus#reference
+https://pythonprogramminglanguage.com/bag-of-words-euclidian-distance/
