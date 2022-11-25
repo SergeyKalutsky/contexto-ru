@@ -1,1 +1,3 @@
 pymystem3
+corus
+tqdm
